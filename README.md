@@ -46,8 +46,7 @@ Driver Drama: My Wi-Fi card didn't work out of the box. I had to learn how to te
 The "Case-Sensitive" Trap: Coming from Windows, I didn't realize Folder and folder were different things. I spent 20 minutes looking for a file that was right in front of me.
 
 Permissions (sudo): Getting "Permission Denied" errors until I realized that in Linux, you have to explicitly ask for "God Mode" (sudo) to do anything important.
-
-** My Perspective**
+My Perspective
 In Windows, if something breaks, you wait for a patch. In Linux, if something breaks, you are the patch. There is a specific kind of "hacker high" you get when you fix a broken screen resolution or a sound driver by typing three lines of code into a black box. It makes the computer feel like yours, not a service you're renting from a corporation.
 
 **Conclusion**
