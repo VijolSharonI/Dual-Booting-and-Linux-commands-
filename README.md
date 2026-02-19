@@ -15,7 +15,7 @@ This is the Remove command. Use it to delete files.
 5. pwd 
 It stands for Print Working Directory.
 
-6.rm
+  6.rm
 deletes a file.
 
 7. cp
@@ -24,8 +24,8 @@ It makes a duplicate of a file or folder.
 8. mv 
  moving files to a different folder and renaming them.
 
-9.echo 
+  9.echo 
 displays the exact thing which was typed in echo
 
-10.whoami
+  10.whoami
 displays the user name
